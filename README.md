@@ -14,6 +14,7 @@ The latest distribution can be found here: https://www.anaconda.com/products/dis
 #### Usage: 
 The project is not interactive, it only needs to be run in Jupyter Notebook.
 
+#### Sample images from the project
 ![Screenshot-1](DS-T51;Screen-1.png)
-
-
+![Screenshot-2](DS-T51;Screen-2.png)
+![Screenshot-3](DS-T51;Screen-3.png)
