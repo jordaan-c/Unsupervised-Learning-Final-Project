@@ -1,6 +1,4 @@
-### Title: Unsupervised Learning Final Project
-#### Date: 2023-01-24
-#### Author: Jordaan Clarke 
+#### Title: Unsupervised Learning Final Project<br> Date: 2023-01-24<br> Author: Jordaan Clarke 
 
 #### Description:
 An unsupervised learning project using k-means, hierarchical clustering, and principal component analysis (PCA). The dataset used for this is `UsArrests.csv`. The point of this project was to explore all unsupervised techniques learnt and apply them to new data, trying to find the optimal number of clusters. 
@@ -12,9 +10,9 @@ Libraries used include: Numpy, Pandas, Matplotlib, Sklearn and Sci-py. The distr
 The latest distribution can be found here: https://www.anaconda.com/products/distribution
 
 #### Usage: 
-The project is not interactive, it only needs to be run in Jupyter Notebook.
+The project is not interactive, it only needs to be run from Jupyter Notebook.
 
-#### Sample images from the project
+#### Sample images from the project:
 ![Screenshot-1](DS-T51;Screen-1.png)
 ![Screenshot-2](DS-T51;Screen-2.png)
 ![Screenshot-3](DS-T51;Screen-3.png)
